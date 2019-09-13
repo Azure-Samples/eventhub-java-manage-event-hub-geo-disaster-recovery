@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Eventhub
-- platforms: java
+description: "Getting Started with Eventhub - Manage Event Hub Geo Disaster Recovery - in Java"
+urlFragment: eventhub-java-manage-event-hub-geo-disaster-recovery
 ---
 
 # Getting Started with Eventhub - Manage Event Hub Geo Disaster Recovery - in Java #
