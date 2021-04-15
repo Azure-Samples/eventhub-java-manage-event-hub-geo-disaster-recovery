@@ -4,6 +4,7 @@ languages:
 - java
 products:
 - azure
+- azure-event-hubs
 extensions:
   services: Eventhubs
   platforms: java
